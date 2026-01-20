@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { createPageUrl } from './utils';
+import { createPageUrl } from '@/utils';
 import { Menu, ChevronDown } from 'lucide-react';
 import {
   DropdownMenu,
@@ -17,9 +17,8 @@ export default function Layout({ children, currentPageName }) {
     <>
       <style>
         {`
-          @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400&display=swap');
           .font-latex {
-            font-family: 'EB Garamond', serif;
+            font-family: "EB Garamond", "Garamond", "Times New Roman", serif;
           }
         `}
       </style>

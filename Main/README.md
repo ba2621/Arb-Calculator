@@ -1,8 +1,6 @@
-# Base44 App
+# Arb Calculator
 
-
-This app was created automatically by Base44.
-It's a Vite+React app that communicates with the Base44 API.
+Vite + React frontend for odds conversion and arbitrage calculations.
 
 ## Running the app
 
@@ -17,4 +15,4 @@ npm run dev
 npm run build
 ```
 
-For more information and support, please contact Base44 support at app@base44.com.
+For local development, run the commands above from this directory.
