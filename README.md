@@ -1,2 +1,3 @@
 # Arb-Calculator
-This is a frontend for calculating arbs between prediction markets and sportbooks.
+This is a site for calculating arbs between prediction markets and sportbooks, amongst other prediction market tools.
+
